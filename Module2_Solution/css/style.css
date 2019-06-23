@@ -1,0 +1,70 @@
+.md-4
+{
+	height: 200px;
+    background-color: grey;
+    border-style: solid;
+    
+
+}
+.responsive
+{
+	height: 40px;
+	background-color: pink;
+	width: 120px;
+	    float: right;
+	    border-style: solid;
+	        font-family: sans-serif;
+
+}
+.text-white
+{
+	    font-family: cursive;
+}
+.row{
+
+}
+
+.res
+{
+	height: 40px;
+	background-color: red;
+	width: 120px;
+	float: right;
+	    
+	    border-style: solid;
+	        font-family: sans-serif;
+
+}
+
+.re
+{
+	height: 40px;
+	background-color: yellow;
+	width: 120px;
+	   float: right;
+	    border-style: solid;
+	        font-family: sans-serif;
+
+}
+
+.display-4
+{
+	    font-family: fantasy;
+}
+.container-fluid
+{
+	margin-top: 60px;
+}
+
+#position
+{
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+
+
+
+
+
+
